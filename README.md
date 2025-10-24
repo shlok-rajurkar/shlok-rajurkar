@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-rajurkar&hide=jupyter%20notebook)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-rajurkar&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/yourusername/github-readme-stats)
 
 
 
